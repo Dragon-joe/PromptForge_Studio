@@ -1,0 +1,10 @@
+{
+  "name": "promptforge-studio-shark",
+  "version": "2.4.0",
+  "private": true,
+  "description": "Local-first bilingual custom prompt builder made by Shark.",
+  "scripts": {
+    "serve": "python -m http.server 5500",
+    "check": "node --check assets/data.js && node --check assets/i18n.js && node --check assets/app.js && node tools/validate.mjs"
+  }
+}
