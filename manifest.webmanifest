@@ -1,0 +1,27 @@
+{
+  "name": "PromptForge Nexus Studio 5 by Shark",
+  "short_name": "PromptForge Nexus 5",
+  "description": "Guided local-first prompt workspace with quality scoring, conflict detection, reusable templates and offline support.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f5fb",
+  "theme_color": "#6d5dfc",
+  "lang": "ar",
+  "dir": "auto",
+  "scope": "./",
+  "id": "./",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
